@@ -25,4 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
 # Angular-NumberGame
+<img width="1420" alt="Screenshot 2023-01-04 at 11 31 15 PM" src="https://user-images.githubusercontent.com/31417442/210702178-93a65751-9425-484e-8d3d-9cbf1bc2119a.png">
